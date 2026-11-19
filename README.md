@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech First Year Student
+- 🎓 B.Tech Second Year Student
 - 🌱 Currently learning **HTML, CSS, JavaScript & DSA**
 - 💻 Working towards becoming a **Full Stack Developer**
 - 🚀 Building projects and improving my coding skills
